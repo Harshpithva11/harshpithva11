@@ -99,7 +99,7 @@ for social media posts based on their selected mood.
 
 <!-- Replace the URL below with the actual PostPro repository URL. -->
 <p>
-  <a href="https://github.com/Harshpithva11/YOUR_POSTPRO_REPOSITORY">
+  <a href="https://postpro-project.vercel.app/project/login.php">
     <img src="https://img.shields.io/badge/Explore%20PostPro-6C3BCE?style=for-the-badge&logo=github&logoColor=white" alt="Explore PostPro repository"/>
   </a>
 </p>
