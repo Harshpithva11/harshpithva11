@@ -29,6 +29,9 @@
   <a href="https://www.linkedin.com/in/harsh-pithva">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://harsh-pithvaportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-6C3BCE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/>
+  </a>
 </p>
 
 <p align="center">
@@ -130,6 +133,9 @@ for social media posts based on their selected mood.
   </a>
   <a href="https://www.linkedin.com/in/harsh-pithva">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://harsh-pithvaportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6C3BCE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>
 
