@@ -60,7 +60,7 @@ hashtags and songs according to a selected mood.
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a> •
+  <a href="https://github.com/Harshpithva11">GitHub</a> •
   <a href="https://www.linkedin.com/in/harsh-pithva">LinkedIn</a> •
 </p>
 
