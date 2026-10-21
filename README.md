@@ -56,29 +56,12 @@ hashtags and songs according to a selected mood.
 <!-- Replace with your real repository URL. -->
 [View PostPro Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_POSTPRO_REPOSITORY)
 
-## 📊 GitHub Overview
-
-<!-- These cards are optional and depend on an external service. -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most-used languages"
-  />
-</p>
 
 ## 🤝 Connect With Me
 
 <p>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_YOUTUBE_URL">YouTube</a>
+  <a href="www.linkedin.com/in/harsh-pithva">LinkedIn</a> •
 </p>
 
 <p align="center">
