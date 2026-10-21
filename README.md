@@ -116,23 +116,6 @@ for social media posts based on their selected mood.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Harshpithva11&show_icons=true&hide_border=true&bg_color=0B1026&title_color=00D4FF&text_color=E6E6FA&icon_color=FF4ECD"
-    alt="GitHub statistics for Harsh Pithva"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshpithva11&layout=compact&hide_border=true&bg_color=0B1026&title_color=00D4FF&text_color=E6E6FA"
-    alt="Most-used programming languages"
-  />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
