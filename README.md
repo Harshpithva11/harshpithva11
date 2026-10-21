@@ -61,7 +61,7 @@ hashtags and songs according to a selected mood.
 
 <p>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a> •
-  <a href="www.linkedin.com/in/harsh-pithva">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/harsh-pithva">LinkedIn</a> •
 </p>
 
 <p align="center">
